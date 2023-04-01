@@ -1,2 +1,2 @@
 # Biccas-figma
-Using HTML,CSS,Bootstrap
+Convert Figma UI designs into html5, Scss & bootstrap.
