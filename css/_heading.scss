@@ -1,4 +1,7 @@
-
+@import"_Button";
+@import"_colortheme";
+@import"_FontFamily";
+@import"_navbar";
 
 @mixin general-font($f_f,$f_s,$l_h,$l_s){
     font-weight: bold;
@@ -9,23 +12,23 @@
 }
 
 
-// .Main_Heading{
-//     @include general-font($heading_font,4.8rem,5.4rem,0rem);
-// }
-// .sub_heading_1{
-//     @include general-font($heading_font, 2.4rem ,auto ,auto );
+.Main_Heading{
+    @include general-font($heading_font,4.8rem,5.4rem,0rem);
+}
+.sub_heading_1{
+    @include general-font($heading_font, 2.4rem ,auto ,auto );
 
-// }
-// .sub_heading_2{
-//     @include general-font($heading_font,1.68rem ,auto , auto );
-// }
-// .sub_heading_3{
-//     @include general-font($heading_font, 1.8rem, auto , auto) ;
-// }
-// .paragraph{
-// @include general-font($paragraph_font,1.08rem ,1.8rem ,  auto);
-// }
-// .sub_paragraph{
-//     @include general-font($paragraph_font,  1rem, 1.8rem ,auto );
-//     color:#A6A6A6;
-// }
+}
+.sub_heading_2{
+    @include general-font($heading_font,1.68rem ,auto , auto );
+}
+.sub_heading_3{
+    @include general-font($heading_font, 1.8rem, auto , auto) ;
+}
+.paragraph{
+@include general-font($paragraph_font,1.08rem ,1.8rem ,  auto);
+}
+.sub_paragraph{
+    @include general-font($paragraph_font,  1rem, 1.8rem ,auto );
+    color:#A6A6A6;
+}
