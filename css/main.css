@@ -423,7 +423,7 @@ nav label.logo {
   padding: 2rem 2rem;
   background-color: #222938;
 }
-.fotter .container_2 input[type=text], .fotter .container_2 select, .fotter .container_2 textarea {
+.fotter .container_2 input[type=text] {
   width: 60%;
   padding: 8px;
   border: none;
@@ -448,11 +448,31 @@ nav label.logo {
 .fotter .container_2 label, .fotter .container_2 h2 {
   padding: 10px 0px;
 }
-.fotter .container_3 label .logo {
-  font-weight: bold;
-  font-family: "inter-bold";
-  font-size: 3rem;
-  line-height: 2.1rem;
-  letter-spacing: 0rem;
-  color: #54BD95;
+.fotter .container_3 input[type=text] {
+  width: 50%;
+  padding: 15px;
+  border: 1px;
+  border-color: azure;
+  border-radius: 3rem;
+  resize: vertical;
+  background-color: #161C28;
+  color: azure;
+  border-style: solid;
+}
+.fotter .container_4 {
+  text-align: left;
+}
+.fotter .container_4 li {
+  padding: 10px 5px;
+}
+.fotter .container_4 li a {
+  color: #A6A6A6;
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.fotter .container_4 li a.active, .fotter .container_4 li a:hover {
+  color: rgba(166, 166, 166, 0.4784313725);
+  text-decoration: none;
 }/*# sourceMappingURL=main.css.map */
