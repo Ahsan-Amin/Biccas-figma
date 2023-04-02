@@ -338,4 +338,12 @@ nav {
 			padding: 10px 0px;
 		}
 	}
+
+	.container_3{
+		label{
+			.logo{
+				@include general-font($heading_font, 3rem, 2.1rem, 0rem, $color-primary);
+			}
+		}
+	}
 }

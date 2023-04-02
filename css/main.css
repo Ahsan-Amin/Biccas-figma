@@ -448,3 +448,11 @@ nav label.logo {
 .fotter .container_2 label, .fotter .container_2 h2 {
   padding: 10px 0px;
 }
+.fotter .container_3 label .logo {
+  font-weight: bold;
+  font-family: "inter-bold";
+  font-size: 3rem;
+  line-height: 2.1rem;
+  letter-spacing: 0rem;
+  color: #54BD95;
+}/*# sourceMappingURL=main.css.map */
