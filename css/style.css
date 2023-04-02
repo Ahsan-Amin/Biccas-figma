@@ -9,13 +9,15 @@
   @font-face {
 	font-family: 'Inter-Bold';
 	src: url('../font/Inter-Bold.ttf') format('truetype');
-
 }
 .container{
     padding-top: 5rem;
     padding-bottom: 2rem;
 }
-
+.essential_padding{
+    padding-top: 2.5rem;
+    padding-bottom: 0.5rem;
+}
 .Main_Heading{
     font-family: 'Inter-Bold';
     font-weight: bold;
@@ -40,7 +42,6 @@
     font-weight: 200;
     font-size: 1.8rem;
     line-height: auto;
-    font-weight: bold;
 }
 .paragraph{
     font-size: 1.08rem;
@@ -110,65 +111,103 @@
   .Hero_Section_4{
     background-color:#F5F5F5;
   }
-  .Hero_Section_2{
-    background-color: aliceblue;
-}
-.Hero_Section_3{
-    background-color:#F5F5F5;
-}
-.btn_Y_planer{
-  border: none;
-color:#F5F5F5;
-text-align: center;
-padding: 0.7rem 2rem;
-cursor: pointer;
-  background-color: #54BD95;
-  border-radius: 1rem;
-
-}
-.btn_M_planer{
-  border: none;
-color:#000000;
-text-align: center;
-  padding: 0.8rem 2rem;
-cursor: pointer;
-  background-color: #ffffff;
-  border-radius: 1rem;
-
-}
-
-
-.btn_VD{
-  border: none;
-color:black;
-text-align: center;
-padding: 5.8px 8px;
-cursor: pointer;
-  background-color:#F5F5F5;
-  border-radius: 3rem;  
-}
-.btn_G_S{
-  border: none;
-color:#F5F5F5;
-text-align: center;
-padding: 1rem 1.5rem;
-cursor: pointer;
-  background-color: #54BD95;
-  border-radius: 3rem;
-}
-
-.inner-container-money_trans{
+  .img-main img{
+    width: 100%;
+  }
+  .img-mai img{
+    width: 30px
+  }
+.money_trans{
     padding: 3rem 3rem;
 }
-.inner-container-money_trans p{
+.money_trans p{
     margin-top: 1rem;
     margin-left: 2rem;
 }
 
-  .Feature-section-essential_padding{
-    padding-top: 2.5rem;
-    padding-bottom: 0.5rem;
-}
+
+
+
+/* 
+.planner_box{
+    width:22.4%3;
+    background-color: #54BD95;
+    margin: 4rem 1.5rem;
+} */
+
+
+
+
+
+.columns {
+
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+
+  }
+  
+  .price {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+  }
+  
+  .price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+  }
+  
+  .price .header {
+    background-color: #111;
+    color: white;
+    font-size: 25px;
+  }
+  
+  .price li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .price .grey {
+    background-color: #eee;
+    font-size: 20px;
+  }
+  
+  .button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .columns {
+      width: 100%;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .planer_YM{
     background-color: white;
@@ -176,41 +215,74 @@ cursor: pointer;
     padding: 0.3rem 0.2rem;
     border-radius: 1rem;
 }
+.btn_Y_planer{
+    border: none;
+	color:#F5F5F5;
+	text-align: center;
+	padding: 0.7rem 2rem;
+	cursor: pointer;
+    background-color: #54BD95;
+    border-radius: 1rem;
+
+}
+
+.btn_M_planer{
+    border: none;
+	color:#000000;
+	text-align: center;
+    padding: 0.8rem 2rem;
+	cursor: pointer;
+    background-color: #ffffff;
+    border-radius: 1rem;
+
+}
+
+
+.btn_VD{
+    border: none;
+	color:black;
+	text-align: center;
+	padding: 5.8px 8px;
+	cursor: pointer;
+    background-color:#F5F5F5;
+    border-radius: 3rem;  
+}
+.btn_G_S{
+    border: none;
+	color:#F5F5F5;
+	text-align: center;
+	padding: 1rem 1.5rem;
+	cursor: pointer;
+    background-color: #54BD95;
+    border-radius: 3rem;
+}
+.Hero_Section_2{
+    background-color: aliceblue;
+}
+.Hero_Section_3{
+    background-color:#F5F5F5;
+}
+
+
 
 .flex-continer{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     width: auto;
+    /* justify-content: center; */
 }
 .contributer_padding img{
     padding: 4rem 3rem;
 }
 .div_center  {
     display: grid;
-	place-items: center   
+	place-items: center
+    
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  .checkbtn{
+.checkbtn{
     font-size: 30px;
     color: #54BD95;
     float: right;
