@@ -35,7 +35,7 @@ Clone the repository and navigate to the project directory
    git clone https://github.com/Ahsan-Amin/Biccas-figma
    ``` -->
    
-# Contributing
+# Contributing 🤝
 
 I welcome contributions to this project! If you would like to contribute, please follow these steps:
 
@@ -47,16 +47,18 @@ I welcome contributions to this project! If you would like to contribute, please
 
 Please make sure to follow our coding standards and best practices
 
-# Authors 🧑🏻‍💻
-<h2> Ahsan Amin </h2>
-			<li >
-				<h4>GitHub:</h4><a href="https://github.com/Ahsan-Amin">@github</a>
-			</li>
+# Authors 
+<h2>🧑🏻 Ahsan Amin </h2>
+            <h4>You can get in touch with me on my LinkedIn Profile:</h4>
             <li >
-				<a href="https://www.linkedin.com/in/ahsan-amin-/">@linkedIn</a>
+				<label>Linked In:<label><a href="https://www.linkedin.com/in/ahsan-amin-/">@linkedin</a>
 			</li>
- 
-
+            <h4>You can also follow my GitHub Profile to stay updated about my latest projects</h4>
+			<li >
+				<label>GitHub:<label><a href="https://github.com/Ahsan-Amin">@github</a>
+			</li>
+		<br>
+ If you liked the repo then kindly support it by giving it a star ⭐!
 
 
 
