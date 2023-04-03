@@ -1,5 +1,6 @@
 # Biccas-figma-using-Sass
 Convert Figma UI designs into html5, Scss & bootstrap. 
+<img alt="" src="./Photo/img_1.png">
 # Live Demo 🎥
 <a href="https://ahsan-amin.github.io/Biccas-figma/">Live Demo Link</a>
 # Build with
