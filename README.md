@@ -4,7 +4,7 @@ Convert Figma UI designs into html5, Scss & bootstrap.
 
 <img alt="" src="./Photo/img_1.png">
 
-<a href="https://www.figma.com/proto/0FXMnSYfLyiEJWEpnWtAom/Saas-Landing-Pages-(Community)?node-id=0-7&scaling=min-zoom&page-id=0%3A1">UI Copy by Figma</a>
+<a href="https://www.figma.com/proto/0FXMnSYfLyiEJWEpnWtAom/Saas-Landing-Pages-(Community)?node-id=0-7&scaling=min-zoom&page-id=0%3A1">You will be found UI Design Here Design on Figma</a>
 <br>
 # Live Demo 🎥
 <a href="https://ahsan-amin.github.io/Biccas-figma/">Live Demo Link</a>
@@ -19,7 +19,7 @@ Convert Figma UI designs into html5, Scss & bootstrap.
     Sass
   </li>
     <li>
-    BootStrap
+    BootStrap5
   </li>
   
   
@@ -29,11 +29,11 @@ Start by clicking the green button in the upper right corner to download the cod
 
 Clone the repository and navigate to the project directory
 
-Clone the repo
+<!-- Clone the repo
 
    ```sh
    git clone https://github.com/Ahsan-Amin/Biccas-figma
-   ```
+   ``` -->
    
 # Contributing
 
@@ -44,9 +44,18 @@ I welcome contributions to this project! If you would like to contribute, please
   <li>Push your changes to your forked repository.   </li>
   <li>Create a pull request, describing your changes and why they should be merged into the main project.  </li>
   <br>
+
 Please make sure to follow our coding standards and best practices
 
-
+# Authors 🧑🏻‍💻
+<h2> Ahsan Amin </h2>
+			<li >
+				<h4>GitHub:</h4><a href="https://github.com/Ahsan-Amin">@github</a>
+			</li>
+            <li >
+				<a href="https://www.linkedin.com/in/ahsan-amin-/">@linkedIn</a>
+			</li>
+ 
 
 
 
