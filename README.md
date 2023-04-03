@@ -59,8 +59,7 @@ Please make sure to follow our coding standards and best practices
 			</li>
 		<br>
  If you liked the repo then kindly support it by giving it a star ⭐!
-<br>
-If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
+
 
 
 
